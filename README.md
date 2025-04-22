@@ -43,11 +43,3 @@ The project requires the following Python packages:
    ```
 3. Open the Jupyter notebooks in your preferred environment
 4. Follow the notebooks in sequence to process data and optimize your portfolio
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
